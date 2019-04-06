@@ -1,0 +1,12 @@
+[
+  {
+        "image_id": 391895,
+        "caption": "sentence 1",
+        "image_filename": "COCO_val2014_000000391895.jpg"
+  },
+  {
+        "image_id": 184613,
+        "caption": "sentence 2",
+        "image_filename": "COCO_val2014_000000184613.jpg"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "info": "N/A",
+  "licenses": "N/A",
+  "type": "captions",
+  "images": [
+    {"file_name": "COCO_val2014_000000391895.jpg", "id": 391895},
+    {"file_name": "COCO_val2014_000000184613.jpg", "id": 184613}
+  ],
+  "annotations": [
+        {
+            "image_id": 391895,
+            "caption": "sentence 1 ground truth 1",
+            "id": 0
+        },
+        {
+            "image_id": 184613,
+            "caption": "sentence 2 ground truth 1",
+            "id": 1
+        },
+        {
+            "image_id": 391895,
+            "caption": "sentence 1 ground truth 2",
+            "id": 2
+        },
+        {
+            "image_id": 184613,
+            "caption": "sentence 2 ground truth 2",
+            "id": 3
+        }
+  ]
+
+}
